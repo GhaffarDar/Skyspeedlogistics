@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "espotdispatch.com",
+  "Id": "3bf83629-591a-402d-9448-81979ed179df"
+}
